@@ -1,0 +1,1 @@
+Pour lancer l'app il suffit de faire un npm start, le site est également en ligne sur now
