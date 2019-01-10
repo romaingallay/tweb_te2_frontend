@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import axios from 'axios'
 import { Link } from 'react-router-dom'
 
-//const api_key = process.env.API_KEY
 const main_url = 'https://api.themoviedb.org/3/movie/popular?page=1'
 const base_url = 'https://api.themoviedb.org/3/movie/'
 const api_key = '&api_key=f1be4bafe6f7cb0cb84f5948c5b75497'
